@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/chrizk/heroku-node-demo#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
